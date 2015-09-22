@@ -7,7 +7,7 @@ tar -xzvf facter-1.7.6.tar.gz
 cd facter-1.7.6
 ruby install.rb
 cd ..
-puppet-0.25.6
+cd puppet-0.25.6
 ruby install.rb
 ```
  
